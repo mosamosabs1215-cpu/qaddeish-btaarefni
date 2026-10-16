@@ -1,0 +1,13 @@
+{
+  "name": "qaddeish-btaarefni",
+  "version": "1.0.0",
+  "private": true,
+  "description": "قديش بتعرفني؟ — لعبة أسئلة عربية تفاعلية مع تحديات مستقلة وإحصائيات حقيقية",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": { "node": ">=22.13.0" }
+}
