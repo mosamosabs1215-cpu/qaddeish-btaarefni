@@ -1,0 +1,174 @@
+{
+  "official_home": "assets/official-home.png",
+  "characters": [
+    "assets/characters/bear-cutout.webp",
+    "assets/characters/panda-cutout.webp",
+    "assets/characters/witch-cutout.webp",
+    "assets/characters/cat-cutout.webp",
+    "assets/characters/lunar-cutout.webp"
+  ],
+  "worlds": [
+    "assets/worlds/forest.webp",
+    "assets/worlds/ocean.webp",
+    "assets/worlds/vampire.webp",
+    "assets/worlds/classic.webp"
+  ],
+  "cinematics": {
+    "forest": [
+      "assets/cinematics/forest/meeting.webp",
+      "assets/cinematics/forest/reply.webp",
+      "assets/cinematics/forest/suspense.webp",
+      "assets/cinematics/forest/reveal.webp",
+      "assets/cinematics/forest/finale.webp"
+    ],
+    "ocean": [
+      "assets/cinematics/ocean/meeting.webp",
+      "assets/cinematics/ocean/reply.webp",
+      "assets/cinematics/ocean/suspense.webp",
+      "assets/cinematics/ocean/reveal.webp",
+      "assets/cinematics/ocean/finale.webp"
+    ],
+    "vampire": [
+      "assets/cinematics/vampire/meeting.webp",
+      "assets/cinematics/vampire/reply.webp",
+      "assets/cinematics/vampire/suspense.webp",
+      "assets/cinematics/vampire/reveal.webp",
+      "assets/cinematics/vampire/finale.webp"
+    ],
+    "classic": [
+      "assets/cinematics/classic/meeting.webp",
+      "assets/cinematics/classic/reply.webp",
+      "assets/cinematics/classic/suspense.webp",
+      "assets/cinematics/classic/reveal.webp",
+      "assets/cinematics/classic/finale.webp"
+    ]
+  },
+  "question_options": {
+    "p-01": [
+      "assets/answers/p-01-0.webp",
+      "assets/answers/p-01-1.webp",
+      "assets/answers/p-01-2.webp",
+      "assets/answers/p-01-3.webp"
+    ],
+    "p-02": [
+      "assets/answers/p-02-0.webp",
+      "assets/answers/p-02-1.webp",
+      "assets/answers/p-02-2.webp",
+      "assets/answers/p-02-3.webp"
+    ],
+    "p-03": [
+      "assets/answers/p-03-0.webp",
+      "assets/answers/p-03-1.webp",
+      "assets/answers/p-03-2.webp",
+      "assets/answers/p-03-3.webp"
+    ],
+    "p-04": [
+      "assets/answers/p-04-0.webp",
+      "assets/answers/p-04-1.webp",
+      "assets/answers/p-04-2.webp",
+      "assets/answers/p-04-3.webp"
+    ],
+    "p-05": [
+      "assets/answers/p-05-0.webp",
+      "assets/answers/p-05-1.webp",
+      "assets/answers/p-05-2.webp",
+      "assets/answers/p-05-3.webp"
+    ],
+    "p-06": [
+      "assets/answers/p-06-0.webp",
+      "assets/answers/p-06-1.webp",
+      "assets/answers/p-06-2.webp",
+      "assets/answers/p-06-3.webp"
+    ],
+    "p-07": [
+      "assets/answers/p-07-0.webp",
+      "assets/answers/p-07-1.webp",
+      "assets/answers/p-07-2.webp",
+      "assets/answers/p-07-3.webp"
+    ],
+    "p-08": [
+      "assets/answers/p-08-0.webp",
+      "assets/answers/p-08-1.webp",
+      "assets/answers/p-08-2.webp",
+      "assets/answers/p-08-3.webp"
+    ],
+    "p-09": [
+      "assets/answers/p-09-0.webp",
+      "assets/answers/p-09-1.webp",
+      "assets/answers/p-09-2.webp",
+      "assets/answers/p-09-3.webp"
+    ],
+    "p-10": [
+      "assets/answers/p-10-0.webp",
+      "assets/answers/p-10-1.webp",
+      "assets/answers/p-10-2.webp",
+      "assets/answers/p-10-3.webp"
+    ],
+    "p-11": [
+      "assets/answers/p-11-0.webp",
+      "assets/answers/p-11-1.webp",
+      "assets/answers/p-11-2.webp",
+      "assets/answers/p-11-3.webp"
+    ],
+    "p-12": [
+      "assets/answers/p-12-0.webp",
+      "assets/answers/p-12-1.webp",
+      "assets/answers/p-12-2.webp",
+      "assets/answers/p-12-3.webp"
+    ],
+    "p-13": [
+      "assets/answers/p-13-0.webp",
+      "assets/answers/p-13-1.webp",
+      "assets/answers/p-13-2.webp",
+      "assets/answers/p-13-3.webp"
+    ],
+    "p-14": [
+      "assets/answers/p-14-0.webp",
+      "assets/answers/p-14-1.webp",
+      "assets/answers/p-14-2.webp",
+      "assets/answers/p-14-3.webp"
+    ],
+    "p-15": [
+      "assets/answers/p-15-0.webp",
+      "assets/answers/p-15-1.webp",
+      "assets/answers/p-15-2.webp",
+      "assets/answers/p-15-3.webp"
+    ],
+    "p-16": [
+      "assets/answers/p-16-0.webp",
+      "assets/answers/p-16-1.webp",
+      "assets/answers/p-16-2.webp",
+      "assets/answers/p-16-3.webp"
+    ],
+    "p-17": [
+      "assets/answers/p-17-0.webp",
+      "assets/answers/p-17-1.webp",
+      "assets/answers/p-17-2.webp",
+      "assets/answers/p-17-3.webp"
+    ],
+    "p-18": [
+      "assets/answers/p-18-0.webp",
+      "assets/answers/p-18-1.webp",
+      "assets/answers/p-18-2.webp",
+      "assets/answers/p-18-3.webp"
+    ],
+    "p-19": [
+      "assets/answers/p-19-0.webp",
+      "assets/answers/p-19-1.webp",
+      "assets/answers/p-19-2.webp",
+      "assets/answers/p-19-3.webp"
+    ],
+    "p-20": [
+      "assets/answers/p-20-0.webp",
+      "assets/answers/p-20-1.webp",
+      "assets/answers/p-20-2.webp",
+      "assets/answers/p-20-3.webp"
+    ]
+  },
+  "world_music": [
+    "assets/audio/forest.mp3",
+    "assets/audio/ocean.mp3",
+    "assets/audio/vampire.mp3",
+    "assets/audio/classic.mp3"
+  ]
+}
