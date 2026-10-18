@@ -1,0 +1,91 @@
+{
+  "rule_10": "Only supplied ornamented cards on character selectors; full transparent originals on invitation, questions, and endings.",
+  "user_supplied_assets": {
+    "bear": {
+      "transparent_master": "1000226904.png",
+      "card_master": "1000226743.png",
+      "width": 1086,
+      "height": 1448,
+      "alpha_bounds": [
+        0,
+        0,
+        1072,
+        1432
+      ],
+      "card_size": [
+        1024,
+        1536
+      ],
+      "alpha_preserved": true
+    },
+    "panda": {
+      "transparent_master": "1000226902.png",
+      "card_master": "1000226740.png",
+      "width": 1086,
+      "height": 1448,
+      "alpha_bounds": [
+        0,
+        9,
+        1050,
+        1448
+      ],
+      "card_size": [
+        1024,
+        1536
+      ],
+      "alpha_preserved": true
+    },
+    "witch": {
+      "transparent_master": "1000226900.png",
+      "card_master": "1000226739.png",
+      "width": 1086,
+      "height": 1448,
+      "alpha_bounds": [
+        0,
+        10,
+        1086,
+        1408
+      ],
+      "card_size": [
+        1024,
+        1536
+      ],
+      "alpha_preserved": true
+    },
+    "cat": {
+      "transparent_master": "1000226903.png",
+      "card_master": "1000226741.png",
+      "width": 1086,
+      "height": 1448,
+      "alpha_bounds": [
+        0,
+        6,
+        1072,
+        1448
+      ],
+      "card_size": [
+        1024,
+        1536
+      ],
+      "alpha_preserved": true
+    },
+    "lunar": {
+      "transparent_master": "1000226901.png",
+      "card_master": "1000226742.png",
+      "width": 1086,
+      "height": 1448,
+      "alpha_bounds": [
+        0,
+        0,
+        1086,
+        1430
+      ],
+      "card_size": [
+        1024,
+        1536
+      ],
+      "alpha_preserved": true
+    }
+  },
+  "no_new_characters_generated": true
+}
